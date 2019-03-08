@@ -1,0 +1,3 @@
+node_modules/
+utiliti/*
+!utiliti/AzkabanGenerator.js

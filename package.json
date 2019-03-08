@@ -1,0 +1,23 @@
+{
+  "name": "schedulers",
+  "version": "1.0.0",
+  "description": "custom scheduler for azkaban",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scheduler",
+    "api",
+    "azkaban"
+  ],
+  "author": "Bui Viet Hung",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mariadb": "^2.0.0-alpha",
+    "request": "^2.88.0"
+  }
+}

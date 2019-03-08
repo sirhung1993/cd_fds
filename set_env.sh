@@ -1,0 +1,3 @@
+export JOB_HISTORY_DB_PASSWORD=db_password
+export AZKABAN_USERNAME=ssrs
+export AZKABAN_PASSWORD=password
