@@ -6,7 +6,7 @@
 
 ## Overview
 
-![FDS system](https://drive.google.com/file/d/1CGLEWyQFX8OMY6-DmQGFNq4wv7mMcRqB/view?usp=sharing)
+![FDS system](https://user-images.githubusercontent.com/8535911/54021716-5874f980-41c3-11e9-9789-deb37282e610.png)
 
 ### SSRS Datawarehouse(DW):
 - Store data about smart sale recording systems.
